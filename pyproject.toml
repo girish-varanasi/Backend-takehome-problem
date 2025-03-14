@@ -1,0 +1,18 @@
+# poetry.lock and pyproject.toml for Poetry
+# pyproject.toml
+# [tool.poetry]
+# name = "fetch-papers"
+# version = "0.1.0"
+# description = "Fetch research papers with non-academic authors from PubMed."
+# authors = ["Girish Varanasi <girishvaranasi@gmail.com>"]
+#
+# [tool.poetry.dependencies]
+# python = "^3.8"
+# requests = "^2.26.0"
+#
+# [tool.poetry.scripts]
+# get-papers-list = "fetch_papers_pubmed:main"
+#
+# [build-system]
+# requires = ["poetry-core>=1.0.0"]
+# build-backend = "poetry.core.masonry.api"
